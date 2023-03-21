@@ -1,0 +1,33 @@
+/*ETIQUETAS HTML VA DIRECTO EL NOMBRE DE LA ETIQUETA */
+/*CLASES VA CON "." MAS EL NOMBRE DE LA CLASE */
+/*SI SON ID, VA CON "#" ADELANTE */
+/*control + "f" = Buscador de clases*/ 
+body{
+    background-color: rgb(223, 249, 251);
+    color: rgb(36, 139, 219);
+}
+#redes{
+    text-align: center;
+    margin: auto;
+}
+li{
+    list-style-type: none;
+    margin-left: -3.5%;
+}
+
+.nombrePerfil{
+    font-size: 5rem;
+}
+
+.apellido{
+    color: goldenrod;
+}
+.video{
+    margin: 2rem 2rem 20rem 40rem;
+}
+#sobre mi{
+    background-color: beige;
+}
+.logoAp{
+    filter: invert();
+}
